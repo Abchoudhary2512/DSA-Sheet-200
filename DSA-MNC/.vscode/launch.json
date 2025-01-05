@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "i:/WinterArc2024/DSA-MNC/arrays&matrix",
-      "program": "i:/WinterArc2024/DSA-MNC/arrays&matrix/build/Debug/outDebug",
+      "cwd": "i:/WinterArc2024/DSA-MNC/Day1_Arrays",
+      "program": "i:/WinterArc2024/DSA-MNC/Day1_Arrays/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
