@@ -17,7 +17,7 @@ int maxisub(vector<int>&nums){
 
 
 int main(){
-    vector<int>nums = {1,2,3,-2,-4};
+    vector<int>nums = {1,2,-1,-4,0,1,2};
 
     cout<<"maximum subarray sum is "<<maxisub(nums)<<endl;
 }
